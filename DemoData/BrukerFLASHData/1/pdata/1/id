@@ -1,0 +1,12 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=mrsl
+$$ 2015-09-24 11:12:11.690 -0500  mrsl@CZC4170WSK
+$$ /opt/PV6.0.1/data/mrsl/20150924_111200_MRSL_Development_1_10/1/pdata/1/id
+$$ process /opt/PV6.0.1/prog/bin/parxserver
+##$DATASET_KEY=( 65 )
+<2.16.756.5.5.100.8323328.12802.1443111131.45>
+##END=
+$$ File finished by PARX at 2015-09-24 11:12:11.690 -0500

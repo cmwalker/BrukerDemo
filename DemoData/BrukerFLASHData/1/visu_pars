@@ -1,0 +1,148 @@
+##TITLE=Parameter List, ParaVision 6.0.1
+##JCAMPDX=4.24
+##DATATYPE=Parameter Values
+##ORIGIN=Bruker BioSpin MRI GmbH
+##OWNER=mrsl
+$$ 2015-09-24 11:14:15.084 -0500  mrsl@CZC4170WSK
+$$ /opt/PV6.0.1/data/mrsl/20150924_111200_MRSL_Development_1_10/1/visu_pars
+$$ process /opt/PV6.0.1/prog/mod/acq_out
+##$VisuVersion=3
+##$VisuUid=( 65 )
+<2.16.756.5.5.100.8323328.18668.1443111255.1>
+##$VisuCreator=( 65 )
+<ParaVision>
+##$VisuCreatorVersion=( 65 )
+<6.0.1>
+##$VisuCreationDate=<2015-09-24T11:14:15,047-0500>
+##$VisuInstanceModality=( 65 )
+<MR>
+##$VisuCoreFrameCount=3
+##$VisuCoreDim=2
+##$VisuCoreSize=( 2 )
+256 256
+##$VisuCoreDimDesc=( 2 )
+spatial spatial
+##$VisuCoreExtent=( 2 )
+50 50
+##$VisuCoreFrameThickness=( 1 )
+1
+##$VisuCoreUnits=( 2, 65 )
+<mm> <mm>
+##$VisuCoreOrientation=( 3, 9 )
+1 0 0 0 1 0 0 0 1 0 1 0 0 0 -1 -1 0 0 1 0 0 0 0 -1 0 1 0
+##$VisuCorePosition=( 3, 3 )
+-25 -25 0 0 -25 25 -25 0 25
+##$VisuCoreDataMin=( 3 )
+8.4850508360979 2.83244130197821 9.26509830010489
+##$VisuCoreDataMax=( 3 )
+32033.0375391594 32766.5 30849.4722662144
+##$VisuCoreDataOffs=( 3 )
+0 0 0
+##$VisuCoreDataSlope=( 3 )
+0.00040240924267567 0.00040240924267567 0.00040240924267567
+##$VisuCoreFrameType=( 1 )
+MAGNITUDE_IMAGE
+##$VisuCoreSlicePacksDef=(0, 3)
+##$VisuCoreSlicePacksSlices=( 3 )
+(0, 1) (1, 1) (2, 1)
+##$VisuCoreSlicePacksSliceDist=( 3 )
+2 2 2
+##$VisuCoreWordType=_16BIT_SGN_INT
+##$VisuCoreByteOrder=littleEndian
+##$VisuCoreTransposition=( 3 )
+0 1 1
+##$VisuFGOrderDescDim=1
+##$VisuFGOrderDesc=( 1 )
+(3, <FG_SLICE>, <>, 0, 2)
+##$VisuGroupDepVals=( 2 )
+(<VisuCoreOrientation>, 0) (<VisuCorePosition>, 0)
+##$VisuSubjectName=( 65 )
+<MRSL Development>
+##$VisuSubjectId=( 65 )
+<MRSL Development>
+##$VisuSubjectUid=( 65 )
+<2.16.756.5.5.100.8323328.7478.1442236993.1>
+##$VisuSubjectInstanceCreationDate=(1442236993, 820, -300)
+##$VisuSubjectBirthDate=( 9 )
+<20150914>
+##$VisuSubjectSex=UNKNOWN
+##$VisuSubjectComment=( 2048 )
+<Use this subject for all developmental work in MRSL.\
+Methods will be shared from here to SAIF when ready.>
+##$VisuSubjectType=Quadruped
+##$VisuStudyUid=( 65 )
+<2.16.756.5.5.100.8323328.12802.1443111120.42>
+##$VisuStudyDate=<2015-09-24T11:12:00,066-0500>
+##$VisuStudyId=( 65 )
+<Old72mmCoil/SurfaceCoilSNRCheck01>
+##$VisuStudyNumber=10
+##$VisuSubjectWeight=0.001
+##$VisuStudyReferringPhysician=( 65 )
+<mrsl>
+##$VisuStudyDescription=( 2048 )
+<\
+>
+##$VisuExperimentNumber=1
+##$VisuProcessingNumber=1
+##$VisuSeriesDate=<2015-09-24T11:14:15,047-0500>
+##$VisuSubjectPosition=Head_Prone
+##$VisuSeriesTypeId=( 65 )
+<ACQ_BRUKER_PVM>
+##$VisuManufacturer=( 65 )
+<Bruker BioSpin MRI GmbH>
+##$VisuAcqSoftwareVersion=( 65 )
+<6.0.1>
+##$VisuInstitution=( 65 )
+<MD Anderson>
+##$VisuStation=( 65 )
+<spect>
+##$VisuSystemOrderNumber=( 65 )
+<10102460>
+##$VisuAcqDate=<2015-09-24T11:14:00,245-0500>
+##$VisuAcqEchoTrainLength=1
+##$VisuAcqSequenceName=( 40 )
+<Bruker:FLASH>
+##$VisuAcqNumberOfAverages=2
+##$VisuAcqImagingFrequency=300.32354445689
+##$VisuAcqImagedNucleus=( 8 )
+<1H>
+##$VisuAcqRepetitionTime=( 1 )
+40
+##$VisuAcqPhaseEncSteps=128
+##$VisuAcqPixelBandwidth=261.579241071429
+##$VisuAcqFlipAngle=30
+##$VisuAcqSize=( 2 )
+96 128
+##$VisuAcqImageSizeAccellerated=Yes
+##$VisuAcqGradEncoding=( 2 )
+read_enc phase_enc
+##$VisuAcqEchoTime=( 1 )
+2
+##$VisuAcquisitionProtocol=( 65 )
+<A01_Localizer>
+##$VisuAcqScanTime=10240
+##$VisuAcqAntiAlias=( 2 )
+1 1
+##$VisuAcqEchoSequenceType=GradientEcho
+##$VisuAcqSpinsVelocityEncoded=No
+##$VisuAcqHasTimeOfFlightContrast=No
+##$VisuAcqIsEpiSequence=No
+##$VisuAcqSpectralSuppression=NoSuppression
+##$VisuAcqKSpaceTraversal=RectilinearTraversal
+##$VisuAcqEncodingOrder=( 2 )
+LinearEncoding LinearEncoding
+##$VisuAcqKSpaceTrajectoryCnt=1
+##$VisuAcqKSpaceFiltering=( 2 )
+NO_WDW NO_WDW
+##$VisuAcqFlowCompensation=FlowNone
+##$VisuAcqSpoiling=GradientSpoiled
+##$VisuAcqPartialFourier=( 2 )
+1.6 1
+##$VisuAcqParallelReductionFactor=( 2 )
+1 1
+##$VisuAcqMagnetizationTransfer=No
+##$VisuAcqBloodSignalNulling=No
+##$VisuCardiacSynchUsed=No
+##$VisuRespSynchUsed=No
+##END=
+$$ File finished by PARX at 2015-09-24 11:14:15.084 -0500
